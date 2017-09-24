@@ -28,6 +28,9 @@ MIT press, 2002
 
 ## Chapters 8-9: Discrete Time, Continuous State Dynamic Models
 
+* 9.6.2: Industry Entry and Exit
+  [[Julia](http://nbviewer.jupyter.org/github/EikiTakigawa/Exercise5/blob/master/MF_9_6_2.ipynb)]
+
 ## Libraries
 
 * [QuantEcon.py](https://github.com/QuantEcon/QuantEcon.py)
