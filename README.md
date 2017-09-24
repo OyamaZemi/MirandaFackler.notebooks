@@ -11,6 +11,21 @@ MIT press, 2002
 
 ## Chapter 7: Discrete Time, Discrete State Dynamic Models
 
+* 7.6.1: Mine Managment
+  [[Python](http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.notebooks/blob/master/ddp_ex_MF_7_6_1_py.ipynb)]
+* 7.6.2: Asset Replacement
+  [[Python](http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.notebooks/blob/master/ddp_ex_MF_7_6_2_py.ipynb)]
+* 7.6.3: Asset Replacement with Maintenance
+  [[Python](http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.notebooks/blob/master/ddp_ex_MF_7_6_3_py.ipynb)]
+  [[Julia](http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.notebooks/blob/master/ddp_ex_MF_7_6_3_jl.ipynb)]
+* 7.6.4: Option Pricing
+  [[Python](http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.notebooks/blob/master/ddp_ex_MF_7_6_4_py.ipynb)]
+* 7.6.5: Water Management
+  [[Python](http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.notebooks/blob/master/ddp_ex_MF_7_6_5_py.ipynb)]
+* 7.6.6: Bioeconomics
+  [[Python](http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.notebooks/blob/master/ddp_ex_MF_7_6_6_py.ipynb)]
+  [[Julia](http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.notebooks/blob/master/ddp_ex_MF_7_6_6_jl.ipynb)]
+
 ## Chapters 8-9: Discrete Time, Continuous State Dynamic Models
 
 ## Libraries
