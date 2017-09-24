@@ -33,3 +33,4 @@ MIT press, 2002
 * [QuantEcon.py](https://github.com/QuantEcon/QuantEcon.py)
 * [QuantEcon.jl](https://github.com/QuantEcon/QuantEcon.jl)
 * [BasisMatrices.jl](https://github.com/QuantEcon/BasisMatrices.jl)
+* [CompEcon](https://github.com/PaulFackler/CompEcon)
