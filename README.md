@@ -27,7 +27,8 @@ MIT press, 2002
   [[Julia](http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.notebooks/blob/master/ddp_ex_MF_7_6_6_jl.ipynb)]
 
 ## Chapters 8-9: Discrete Time, Continuous State Dynamic Models
-
+* 9.6.1: Asset Replacement
+[[Julia](http://nbviewer.jupyter.org/github/NTsuchiya0127/ex03/blob/master/9.6.1%20Asset%20Replacement.ipynb)]
 * 9.6.2: Industry Entry and Exit
   [[Julia](http://nbviewer.jupyter.org/github/EikiTakigawa/Exercise5/blob/master/MF_9_6_2.ipynb)]
 
