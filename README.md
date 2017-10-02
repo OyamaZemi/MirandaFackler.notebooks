@@ -31,8 +31,8 @@ MIT press, 2002
 [[Julia](http://nbviewer.jupyter.org/github/NTsuchiya0127/ex03/blob/master/9.6.1%20Asset%20Replacement.ipynb)]
 * 9.6.2: Industry Entry and Exit
   [[Julia](http://nbviewer.jupyter.org/github/EikiTakigawa/Exercise5/blob/master/MF_9_6_2.ipynb)]
-* 9.7.1: Economic Growth
-  [[Julia](http://nbviewer.jupyter.org/github/m21kosumi/8.4.1-9.7.1-Economic-Growth/blob/master/8.4.1-9.7.1%20Economic%20Growth.ipynb)]
+* 9.7.8: Livestock Feeding
+[[Julia](https://nbviewer.jupyter.org/github/myuuuuun/MirandaFackler/blob/master/ddp_ex_MF_9_7_8_jl.ipynb)]
 
 ## Libraries
 
