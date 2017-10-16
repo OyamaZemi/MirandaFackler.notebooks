@@ -38,7 +38,7 @@ MIT press, 2002
 * 9.7.3: Nonrenewable Resource Management
   [[Julia](http://nbviewer.jupyter.org/github/masashitshit/Dynamic-Programming/blob/master/Nonrenewable%20Resource%20Management%20%28SplineParams%29.ipynb)]
 * 9.7.6: Production Adjustment Model
-  [[Julia](http://nbviewer.jupyter.org/github/4kizuki/PAM.jl/blob/master/9.7.6-Production-Adjustment-Model.ipynb)
+  [[Julia](http://nbviewer.jupyter.org/github/4kizuki/PAM.jl/blob/master/9.7.6-Production-Adjustment-Model.ipynb)]
 * 9.7.8: Livestock Feeding
   [[Julia](https://nbviewer.jupyter.org/github/myuuuuun/MirandaFackler/blob/master/ddp_ex_MF_9_7_8_jl.ipynb)]
 
