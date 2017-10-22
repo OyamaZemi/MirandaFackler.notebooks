@@ -13,13 +13,16 @@ MIT press, 2002
 
 * 7.6.1: Mine Managment
   [[Python](http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.notebooks/blob/master/ddp_ex_MF_7_6_1_py.ipynb)]
+  [[Julia](http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.notebooks/blob/master/ddp_ex_MF_7_6_1_jl.ipynb)]
 * 7.6.2: Asset Replacement
   [[Python](http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.notebooks/blob/master/ddp_ex_MF_7_6_2_py.ipynb)]
+  [[Julia](http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.notebooks/blob/master/ddp_ex_MF_7_6_2_jl.ipynb)]
 * 7.6.3: Asset Replacement with Maintenance
   [[Python](http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.notebooks/blob/master/ddp_ex_MF_7_6_3_py.ipynb)]
   [[Julia](http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.notebooks/blob/master/ddp_ex_MF_7_6_3_jl.ipynb)]
 * 7.6.4: Option Pricing
   [[Python](http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.notebooks/blob/master/ddp_ex_MF_7_6_4_py.ipynb)]
+  [[Julia](http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.notebooks/blob/master/ddp_ex_MF_7_6_4_jl.ipynb)]
 * 7.6.5: Water Management
   [[Python](http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.notebooks/blob/master/ddp_ex_MF_7_6_5_py.ipynb)]
 * 7.6.6: Bioeconomics
