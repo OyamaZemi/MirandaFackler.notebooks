@@ -41,7 +41,7 @@ MIT press, 2002
 * 9.7.1: Economic Growth
   [[Julia](http://nbviewer.jupyter.org/github/m21kosumi/8.4.1-9.7.1-Economic-Growth/blob/master/8.4.1-9.7.1%20Economic%20Growth.ipynb)]
 * 9.7.2: Renewable Resource Management
-  [[Julia](http://nbviewer.jupyter.org/github/IoriS/DDP/blob/master/9.7.2%20Renewable%20Resource%20Management.ipynb?flush_cache=true)]
+  [[Julia](http://nbviewer.jupyter.org/github/IoriS/DDP/blob/master/9.7.2%20Renewable%20Resource%20Management%EF%BC%88%E6%9C%80%E7%B5%82%E7%89%88%EF%BC%89.ipynb?flush_cache=true)]
 * 9.7.3: Nonrenewable Resource Management
   [[Julia](http://nbviewer.jupyter.org/github/masashitshit/Dynamic-Programming/blob/master/Nonrenewable%20Resource%20Management.ipynb)]
 * 9.7.6: Production Adjustment Model
