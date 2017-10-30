@@ -1,7 +1,7 @@
 # MirandaFackler.notebooks
 List of Jupyter Notebooks on
 Miranda and Fackler,
-[Applied Computational Economics and Finance](https://mitpress.mit.edu/books/applied-computational-economics-and-finance),
+[Applied Computational Economics and Finance](http://www4.ncsu.edu/~pfackler/compecon/),
 MIT press, 2002
 
 ## Chapter 6: Function Approximation
