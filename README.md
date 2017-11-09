@@ -61,3 +61,8 @@ MIT press, 2002
 * [BasisMatrices.jl](https://github.com/QuantEcon/BasisMatrices.jl)
 * [CompEcon](https://github.com/PaulFackler/CompEcon)
 * [CompEcon-python](https://github.com/randall-romero/CompEcon-python)
+
+## Resources
+
+* [Applied Computational Economics Workshop](http://compeconworkshop.org)
+* [CompEconWorkshop_2017](https://github.com/NYUEcon/CompEconWorkshop_2017)
