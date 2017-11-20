@@ -51,6 +51,8 @@ MIT press, 2002
   [[Julia](https://nbviewer.jupyter.org/github/taneaki/MonetaryPolicy.jl/blob/master/9.7.5-Monetary-Policy.ipynb)]
 * 9.7.6: Production Adjustment Model
   [[Julia](http://nbviewer.jupyter.org/github/4kizuki/PAM.jl/blob/master/9.7.6-Production-Adjustment-Model.ipynb)]
+* 9.7.7: Production Inventory Model
+  [[Julia](http://nbviewer.jupyter.org/github/hirokikanamaru/ProductionInventory.jl/blob/master/Production-Inventory.ipynb)]
 * 9.7.8: Livestock Feeding
   [[Julia](https://nbviewer.jupyter.org/github/myuuuuun/MirandaFackler/blob/master/ddp_ex_MF_9_7_8_jl.ipynb)]
 
