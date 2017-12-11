@@ -56,6 +56,7 @@ MIT press, 2002
 * 9.7.8: Livestock Feeding
   [[Julia](https://nbviewer.jupyter.org/github/myuuuuun/MirandaFackler/blob/master/ddp_ex_MF_9_7_8_jl.ipynb)]
 * 9.8.1: Capital-Production Game
+  [[Julia](http://nbviewer.jupyter.org/github/ellenjunghyunkim/exercises2017/blob/master/Capital%20Production%20Game.ipynb)]
 * 9.8.2: Income Redistribution Game
   [[Julia](http://nbviewer.jupyter.org/github/keiikegami/IRG/blob/master/share_game.ipynb)]
   
