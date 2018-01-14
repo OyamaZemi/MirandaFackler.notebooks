@@ -60,7 +60,8 @@ MIT press, 2002
   [[Julia](http://nbviewer.jupyter.org/github/ellenjunghyunkim/exercises2017/blob/master/Capital%20Production%20Game.ipynb)]
 * 9.8.2: Income Redistribution Game
   [[Julia](http://nbviewer.jupyter.org/github/keiikegami/IRG/blob/master/share_game.ipynb)]
-  
+* 9.8.3: Marketing Board Model
+  [[Julia](http://nbviewer.jupyter.org/github/akihirosasaki/Markting-Board-Model/blob/master/src/Marketing%20Board%20Model.ipynb)]
 
 ## Libraries
 
