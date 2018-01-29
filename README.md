@@ -62,6 +62,8 @@ MIT press, 2002
   [[Julia](http://nbviewer.jupyter.org/github/keiikegami/IRG/blob/master/share_game.ipynb)]
 * 9.8.3: Marketing Board Model
   [[Julia](http://nbviewer.jupyter.org/github/akihirosasaki/Markting-Board-Model/blob/master/src/Marketing%20Board%20Model.ipynb)]
+* 9.9.1: Asset Pricing Model
+  [[Julia](http://nbviewer.jupyter.org/github/nswa17/AssetPricing/blob/master/Summary.ipynb?flush_cache=true)]
 
 ## Libraries
 
